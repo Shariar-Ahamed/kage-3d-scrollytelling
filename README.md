@@ -189,7 +189,21 @@ All source components and binary WebP assets have been verified against their ca
 
 ---
 
+## 👨‍💻 Developer & Connect
+
+Crafted with devotion by **Shariar Ahamed**
+
+- 🌐 **Portfolio**: [shariarahamed.me](https://www.shariarahamed.me/)
+- 💼 **LinkedIn**: [in/shariarahamed](https://www.linkedin.com/in/shariarahamed/)
+- 🐙 **GitHub**: [@Shariar-Ahamed](https://github.com/Shariar-Ahamed)
+- 🐦 **X / Twitter**: [@ShariarAlways](https://x.com/ShariarAlways)
+- 📸 **Instagram**: [@shahriar_thebrowncat](https://www.instagram.com/shahriar_thebrowncat)
+- 📘 **Facebook**: [Shahriar.TheBrownCat](https://www.facebook.com/Shahriar.TheBrownCat)
+
+---
+
 ## 📄 License & Credits
 
 - **Engine & Assets**: Designed & created by [DesignCode](https://designcode.io) / ThreeUI.
+- **Developer**: [Shariar Ahamed](https://www.shariarahamed.me/)
 - **License**: MIT
